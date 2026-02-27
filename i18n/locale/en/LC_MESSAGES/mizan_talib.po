@@ -1,0 +1,1987 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mizan Etudiant 1.0\n"
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "ميزان الطالب"
+msgstr "Student Balance"
+
+msgid "الأقسام"
+msgstr "Classes"
+
+msgid "الحضور"
+msgstr "Attendance"
+
+msgid "️ الاستجوابات/الواجبات"
+msgstr "Quizzes / Assignments"
+
+msgid "️ الحساب النهائي"
+msgstr "Final Grades"
+
+msgid "الحصص السابقة"
+msgstr "Previous Sessions"
+
+msgid "الغياب المبرر"
+msgstr "Excused Absences"
+
+msgid "الإدارة"
+msgstr "Administration"
+
+msgid "‍🎓 إدارة الطلبة"
+msgstr "🎓 Student Management"
+
+msgid "إدارة حصص التدريس"
+msgstr "Teaching Sessions Management"
+
+msgid "️ إدارة حالات الإقصاء"
+msgstr "Exclusion Cases Management"
+
+msgid "الإعدادات"
+msgstr "Settings"
+
+msgid "تغيير كلمة السر الإدارية"
+msgstr "Change Admin Password"
+
+msgid "️ تعديل الأوزان"
+msgstr "Adjust Weights"
+
+msgid "أرشفة السداسي"
+msgstr "Archive Semester"
+
+msgid "تغيير اللغة"
+msgstr "Change Language"
+
+msgid "تفعيل الوضع الليلي"
+msgstr "Enable Dark Mode"
+
+msgid "تعليمات البرنامج"
+msgstr "Program Help"
+
+msgid "منصة ذكية لإدارة حضور الطلبة ونتائجهم"
+msgstr "Managing student attendance and results"
+
+msgid "أرشيف الحصص"
+msgstr "Session Archive"
+
+msgid "استعرض الحصص السابقة وبيانات المشاركة"
+msgstr "Browse previous sessions and participation records"
+
+msgid "القسم"
+msgstr "Class"
+
+msgid "اختر القسم لعرض حصصه المؤرشفة"
+msgstr "Select a class to view its archived sessions"
+
+msgid "عرض"
+msgstr "Show"
+
+msgid "تطبيق الفلترة وعرض قائمة الحصص"
+msgstr "Apply filters and show the list of sessions"
+
+msgid "الرقم"
+msgstr "ID"
+
+msgid "اكتب رقم الطالب للبحث السريع"
+msgstr "Enter student ID for quick search"
+
+msgid "اللقب"
+msgstr "Last Name"
+
+msgid "الإسم"
+msgstr "First Name"
+
+msgid "فلترة الحصص حسب اسم الطالب"
+msgstr "Filter sessions by student First name"
+
+msgid "فلترة الحصص حسب لقب الطالب"
+msgstr "Filter sessions by student Name"
+
+msgid "البحث عن الطالب"
+msgstr "Search Student"
+
+msgid "تطبيق معايير البحث المحددة لتصفية النتائج"
+msgstr "Apply the search criteria to filter results"
+
+msgid "رمز الجلسة"
+msgstr "Session Code"
+
+msgid "التاريخ"
+msgstr "Date"
+
+msgid "نوع الحصة"
+msgstr "Session Type"
+
+msgid "عدد الطلبة"
+msgstr "Number of Students"
+
+msgid "انقر على جلسة لعرض تفاصيلها الكاملة"
+msgstr "Double-click a session to view full details"
+
+msgid "المشاركة"
+msgstr "Participation"
+
+msgid "قائمة الطلبة المشاركين وتقييماتهم في الجلسة المحددة"
+msgstr "List of participating students and their evaluations"
+
+msgid "⬇️ تصدير إلى Excel"
+msgstr "⬇️ Export to Excel"
+
+msgid "حفظ نتائج الجلسة الحالية في ملف Excel"
+msgstr "Save current session results to an Excel file"
+
+msgid "📊 إحصائيات الأقسام"
+msgstr "📊 Class Statistics"
+
+msgid "عرض مخطط يوضح توزيع الحضور حسب الأقسام"
+msgstr "Display chart showing attendance distribution by class"
+
+msgid "👤 إحصائيات طالب"
+msgstr "👤 Student Statistics"
+
+msgid "إظهار أداء طالب محدد عبر الجلسات"
+msgstr "Show a selected student's performance across sessions"
+
+msgid "✏️ تصحيح نوع الحصة"
+msgstr "✏️ Correct Session Type"
+
+msgid "إذا تم حفظ الحصة بمعلومات خاطئة يمكن التصحيح من هنا (تحتاج كلمة السر الإدارية)"
+msgstr "If a session was saved with incorrect info, you can fix it here (requires admin password)"
+
+msgid "🛠 تعديل الحضور و المشاركة"
+msgstr "🛠 Edit Attendance and Participation"
+
+msgid "تعديل قائمة الطلبة ودرجات المشاركة للجلسة المحددة (يتطلب كلمة السر الإدارية)"
+msgstr "Edit the list of students and participation grades for the selected session (requires admin password)"
+
+msgid "الكل"
+msgstr "All"
+
+msgid "لا توجد أنواع حصص معرفة في النظام."
+msgstr "No session types are defined in the system."
+
+msgid "تعديل نوع الحصة — أرشيف"
+msgstr "Edit Session Type — Archive"
+
+msgid "اختر نوع الحصة."
+msgstr "Select a session type."
+
+msgid "💾 حفظ التعديل"
+msgstr "💾 Save Changes"
+
+msgid "تعديل الحضور — جلسة أرشيف"
+msgstr "Edit Attendance — Archived Session"
+
+msgid "انقر مرتين على خانة المشاركة لتعديل القيمة"
+msgstr "Double-click on the participation cell to modify its value"
+
+msgid "تعديل المشاركة"
+msgstr "Edit Participation"
+
+msgid "💾 حفظ التعديلات"
+msgstr "💾 Save Modifications"
+
+msgid "✖ إغلاق"
+msgstr "✖ Close"
+
+msgid "تسجيل الـحضور"
+msgstr "Record Attendance"
+
+msgid "واجهة تسجيل حضور الطلبة أثناء الحصة"
+msgstr "Interface for recording student attendance during sessions"
+
+msgid "▶️ id QR scan"
+msgstr "▶️ ID QR Scan"
+
+msgid "ابدأ تشغيل الكاميرا لمسح رمز الطالب"
+msgstr "Start the camera to scan the student's QR code"
+
+msgid "⏹ إيقاف"
+msgstr "⏹ Stop"
+
+msgid "إيقاف الكاميرا الحالية"
+msgstr "Stop the current camera"
+
+msgid "إضافة طلبة من القائمة"
+msgstr "Add Students from List"
+
+msgid "فتح نافذة لاختيار طلبة يدويًا"
+msgstr "Open a window to manually select students"
+
+msgid "{active}  :القسم النشط"
+msgstr "{active}: Active Class"
+
+msgid "لتغيير القسم النشط، انتقل إلى تبويب الأقسام"
+msgstr "To change the active class, go to the Classes tab"
+
+msgid "اختر المادة ونوع الحصة المرتبط بها"
+msgstr "Select the subject and its session type"
+
+msgid "💾 حفظ الحصة"
+msgstr "💾 Save Session"
+
+msgid "حفظ الحضور الحالي في قاعدة البيانات"
+msgstr "Save the current attendance to the database"
+
+msgid "🗑 حذف المحدد"
+msgstr "🗑 Delete Selected"
+
+msgid "️ تفريغ القائمة"
+msgstr "Clear List"
+
+msgid "حذف جميع الطلبة من القائمة دون حفظ"
+msgstr "Remove all students from the list without saving"
+
+msgid "الكاميرا متوقفة"
+msgstr "Camera stopped"
+
+msgid "قائمة مؤقتة للطلبة الممسوحة في هذه الجلسة"
+msgstr "Temporary list of scanned students for this session"
+
+msgid "➕ إضافة يدويًا — اختيار طلبة"
+msgstr "➕ Manual Addition — Select Students"
+
+msgid "ابحث عن الطالب بالرقم أو الاسم أو اللقب"
+msgstr "Search for a student by ID, first name, or last name"
+
+msgid "تحديد الكل"
+msgstr "Select All"
+
+msgid "إلغاء التحديد"
+msgstr "Deselect All"
+
+msgid "➕ إضافة المحددين"
+msgstr "➕ Add Selected"
+
+msgid "إغلاق النافذة بدون إضافة أحد"
+msgstr "Close the window without adding anyone"
+
+msgid "بدأ المسح..."
+msgstr "Scanning started..."
+
+msgid "تعذر تشغيل الكاميرا"
+msgstr "Unable to start camera"
+
+msgid "تم إيقاف الكاميرا"
+msgstr "Camera stopped"
+
+msgid "تأكيد حفظ الحصة"
+msgstr "Confirm Session Save"
+
+msgid ":أنت على وشك حفظ حصة من النوع"
+msgstr "You are about to save a session of type:"
+
+msgid ":للقسم"
+msgstr "For class:"
+
+msgid "تأكيد الحفظ"
+msgstr "Confirm Save"
+
+msgid "القائمة فارغة."
+msgstr "The list is empty."
+
+msgid "تم تجاهل التكرارات."
+msgstr "Duplicates were ignored."
+
+msgid "سيتم حذف جميع الطلبة من القائمة دون حفظ. المتابعة؟"
+msgstr "All students will be removed without saving. Continue?"
+
+msgid "تم تفريغ قائمة الحضور."
+msgstr "Attendance list cleared."
+
+msgid "هل تريد مغادرة البرنامج؟"
+msgstr "Do you want to exit the program?"
+
+msgid "🏫 الأقسام"
+msgstr "🏫 Classes"
+
+msgid "📷 الحضور"
+msgstr "📷 Attendance"
+
+msgid "✍️ الاستجوابات/الواجبات"
+msgstr "✍️ Quizzes / Assignments"
+
+msgid "📂 الحصص السابقة"
+msgstr "📂 Previous Sessions"
+
+msgid "📑 الغياب المبرر"
+msgstr "📑 Excused Absences"
+
+msgid "👨‍🎓 إدارة الطلبة"
+msgstr "👨‍🎓 Student Management"
+
+msgid "📚 إدارة حصص التدريس"
+msgstr "📚 Teaching Sessions Management"
+
+msgid "⚠️ إدارة حالات الإقصاء"
+msgstr "⚠️ Manage Exclusion Cases"
+
+msgid "الإعدادات"
+msgstr "Settings"
+
+msgid "⚖️ تعديل الأوزان"
+msgstr "⚖️ Adjust Weights"
+
+msgid "📦 أرشفة السداسي"
+msgstr "📦 Archive Semester"
+
+msgid "🌐 تغيير اللغة"
+msgstr "🌐 Change Language"
+
+msgid "🌙 تفعيل الوضع الليلي"
+msgstr "🌙 Enable Dark Mode"
+
+msgid "☀️ تفعيل الوضع النهاري"
+msgstr "☀️ Enable Light Mode"
+
+msgid "❔ تعليمات البرنامج"
+msgstr "❔ Program Help"
+
+msgid "إدارة الأقسام"
+msgstr "Class Management"
+
+msgid "القسم النشط الحالي"
+msgstr "Current Active Class"
+
+msgid "تنشيط أو إلغاء تنشيط القسم المحدد في الجدول"
+msgstr "Activate or deactivate the selected class"
+
+msgid "➕ إنشاء قسم جديد"
+msgstr "➕ Create New Class"
+
+msgid "إنشاء قسم جديد (طور/سنة/فوج/فصيلة/تخصص)"
+msgstr "Create a new class (Cycle / Year / Group / Section / Major)"
+
+msgid "🗑 حذف قسم"
+msgstr "🗑 Delete Class"
+
+msgid "حذف القسم المحدد (يتطلب كلمة السر الإدارية)"
+msgstr "Delete the selected class (requires admin password)"
+
+msgid "🔄 إعادة تحميل"
+msgstr "🔄 Reload"
+
+msgid "إعادة تحميل قائمة الأقسام من قاعدة البيانات"
+msgstr "Reload class list from the database"
+
+msgid "رمز القسم"
+msgstr "Class Code"
+
+msgid "الطور"
+msgstr "Cycle"
+
+msgid "السنة"
+msgstr "Year"
+
+msgid "الفوج"
+msgstr "Group"
+
+msgid "الفصيلة"
+msgstr "Section"
+
+msgid "التخصص"
+msgstr "Major"
+
+msgid ":القسم المحدد"
+msgstr "is the selected Class"
+
+msgid "🟢 إلغاء تنشيط"
+msgstr "🟢 Deactivate"
+
+msgid "تنشيط القسم"
+msgstr "Activate Class"
+
+msgid "اختر قسماً لحذفه"
+msgstr "Select a class to delete"
+
+msgid "هل أنت متأكد من حذف القسم {cid}؟ سيتم حذف كل البيانات المرتبطة به تلقائيًا."
+msgstr "Are you sure you want to delete class {cid}? All related data will be removed automatically."
+
+msgid "لم يتم العثور على القسم المطلوب حذفه."
+msgstr "The class to delete was not found."
+
+msgid "تم حذف القسم {cid} وجميع بياناته المرتبطة"
+msgstr "Class {cid} and all related data were deleted successfully."
+
+msgid "تعذر تحميل الأقسام:\n{exc}"
+msgstr "Unable to load classes:\n{exc}"
+
+msgid "تم إلغاء تنشيط القسم"
+msgstr "Class deactivated"
+
+msgid "تم تنشيط القسم {cid}"
+msgstr "Class {cid} activated"
+
+msgid "اختر قسماً من الجدول"
+msgstr "Select a class from the table"
+
+msgid "👨‍🎓 إدارة الطلبة"
+msgstr "👨‍🎓 Student Management"
+
+msgid "اختر: كل الطلبة، سنة معيّنة، أو قسم معيّن"
+msgstr "Choose: All students, specific year, or specific class"
+
+msgid "✏️ تحرير"
+msgstr "✏️ Edit"
+
+msgid "🗑 حذف"
+msgstr "🗑 Delete"
+
+msgid "📥 استيراد"
+msgstr "📥 Import"
+
+msgid "📤 تصدير"
+msgstr "📤 Export"
+
+msgid "🔄 إعادة تحميل"
+msgstr "🔄 Reload"
+
+msgid "كل الطلبة"
+msgstr "All Students"
+
+msgid "اختر طالباً للتحرير"
+msgstr "Select a student to edit"
+
+msgid "تحرير طالب"
+msgstr "Edit Student"
+
+msgid "كل الحقول مطلوبة"
+msgstr "All fields are required"
+
+msgid "الطالب موجود مسبقًا أو تعذر الإضافة."
+msgstr "The student already exists or could not be added."
+
+msgid "اختر طالباً للحذف"
+msgstr "Select a student to delete"
+
+msgid "حذف {sid}؟"
+msgstr "Delete {sid}?"
+
+msgid "لم يتم إنشاء أقسام للطلبة في قاعدة البيانات، يجب إنشاء أقسام أولا"
+msgstr "No student classes exist in the database — please create classes first."
+
+msgid "اختر القسم للاستيراد"
+msgstr "Select a class to import into"
+
+msgid "متابعة"
+msgstr "Continue"
+
+msgid "عمود {key}:"
+msgstr "Column {key}:"
+
+msgid "اختر كل الأعمدة"
+msgstr "Select All Columns"
+
+msgid "تطبيق"
+msgstr "Apply"
+
+msgid "تم استيراد {count} طالب إلى القسم {class_id}"
+msgstr "{count} students imported into class {class_id}"
+
+msgid "تم التصدير"
+msgstr "Export completed"
+
+msgid "المعروض: {count}"
+msgstr "Displayed: {count}"
+
+msgid "📚 إدارة حصص التدريس"
+msgstr "📚 Teaching Sessions Management"
+
+msgid "إدارة أنواع الحصص"
+msgstr "Session Types Management"
+
+msgid "رمز المادة"
+msgstr "Subject Code"
+
+msgid "رمز المادة هو الإسم المختصر للمادة: 8 أحرف لاتينية أو أرقام على أقصى تقدير"
+msgstr "The subject code is a short identifier (≤ 8 letters or digits)."
+
+msgid "اختر نوع الحصة (Cours/TP/TD)"
+msgstr "Select the session type (Course / TP / TD)"
+
+msgid "إضافة نوع حصة جديد باستخدام القيم أعلاه"
+msgstr "Add a new session type using the values above"
+
+msgid "قائمة أنواع الحصص المسجلة حاليًا"
+msgstr "List of currently registered session types"
+
+msgid "إغلاق"
+msgstr "Close"
+
+msgid "✏️ تعديل"
+msgstr "✏️ Edit"
+
+msgid "🗑 حذف نوع الحصة المحدد من القائمة"
+msgstr "🗑 Delete the selected session type"
+
+msgid "أدخل رمز المادة أولاً"
+msgstr "Enter the subject code first"
+
+msgid "تعذر الإضافة: {e}"
+msgstr "Could not add: {e}"
+
+msgid "تمت إضافة {subject}-{stype}"
+msgstr "{subject}-{stype} added"
+
+msgid "اختر سطرًا أولاً"
+msgstr "Select a row first"
+
+msgid "تعذر التعديل:\n{exc}"
+msgstr "Unable to modify:\n{exc}"
+
+msgid "هل تريد حذف {subject}-{stype}؟"
+msgstr "Do you want to delete {subject}-{stype}?"
+
+msgid "تم حذف {subject}-{stype}"
+msgstr "{subject}-{stype} deleted"
+
+msgid "📑 الغياب المبرر"
+msgstr "📑 Excused Absences"
+
+msgid "تسجيل وإدارة الغيابات المبررة للطلبة"
+msgstr "Record and manage students’ excused absences"
+
+msgid "➕ إضافة غياب"
+msgstr "➕ Add Absence"
+
+msgid "إضافة غياب مبرر لطالب محدد"
+msgstr "Add an excused absence for a selected student"
+
+msgid "🗑 حذف الغياب"
+msgstr "🗑 Delete Absence"
+
+msgid "البحث عن الغيابات حسب القسم أو الطالب"
+msgstr "Search absences by class or student"
+
+msgid "اسم الطالب"
+msgstr "Student Name"
+
+msgid "التاريخ"
+msgstr "Date"
+
+msgid "المدة"
+msgstr "Duration"
+
+msgid "السبب"
+msgstr "Reason"
+
+msgid "المبرر"
+msgstr "Justification"
+
+msgid "تأكيد حذف الغياب"
+msgstr "Confirm Deletion"
+
+msgid "هل أنت متأكد من حذف الغياب المحدد؟"
+msgstr "Are you sure you want to delete the selected absence?"
+
+msgid "تم حذف الغياب بنجاح."
+msgstr "Absence deleted successfully."
+
+msgid "➕ إضافة غياب مبرر جديد"
+msgstr "➕ Add New Excused Absence"
+
+msgid "من"
+msgstr "From"
+
+msgid "إلى"
+msgstr "To"
+
+msgid "وثيقة مبررة (اختياري)"
+msgstr "Supporting Document (optional)"
+
+msgid "💾 حفظ"
+msgstr "💾 Save"
+
+msgid "تمت الإضافة بنجاح."
+msgstr "Added successfully."
+
+msgid "إضافة حالة إقصاء جديدة لطالب"
+msgstr "Add a new exclusion case for a student"
+
+msgid "🗑 حذف الحالة المحددة"
+msgstr "🗑 Delete Selected Case"
+
+msgid "البحث عن حالات الإقصاء حسب القسم أو الطالب"
+msgstr "Search exclusion cases by class or student"
+
+msgid "حالة الإقصاء"
+msgstr "Exclusion Case"
+
+msgid "عدد الأيام"
+msgstr "Days"
+
+msgid "السبب"
+msgstr "Reason"
+
+msgid "التاريخ"
+msgstr "Date"
+
+msgid "➕ إضافة حالة إقصاء"
+msgstr "➕ Add Exclusion Case"
+
+msgid "تأكيد حذف الحالة المحددة؟"
+msgstr "Confirm deletion of the selected case?"
+
+msgid "تم حذف الحالة بنجاح."
+msgstr "Case deleted successfully."
+
+msgid "⚖️ الحساب النهائي"
+msgstr "⚖️ Final Calculation"
+
+msgid "عرض النتائج النهائية للطلبة"
+msgstr "Display students’ final results"
+
+msgid "المادة"
+msgstr "Subject"
+
+msgid "المعامل"
+msgstr "Coefficient"
+
+msgid "النقاط"
+msgstr "Scores"
+
+msgid "المعدل"
+msgstr "Average"
+
+msgid "الدرجة النهائية"
+msgstr "Final Grade"
+
+msgid "عرض النتائج حسب القسم أو الطالب"
+msgstr "Show results by class or student"
+
+msgid "حساب المعدلات"
+msgstr "Compute Averages"
+
+msgid "إعادة حساب المعدلات النهائية حسب الأوزان المحددة"
+msgstr "Recalculate final averages based on the configured weights"
+
+msgid "📤 تصدير النتائج"
+msgstr "📤 Export Results"
+
+msgid "تصدير جميع النتائج النهائية إلى Excel"
+msgstr "Export all final results to Excel"
+
+msgid "معدل القسم: {avg:.2f}"
+msgstr "Class Average: {avg:.2f}"
+
+msgid "تم الحساب بنجاح."
+msgstr "Computation completed successfully."
+
+msgid "لم يتم العثور على بيانات لاحتساب المعدل."
+msgstr "No data found to compute averages."
+
+msgid "إدارة إعدادات البرنامج العامة"
+msgstr "Manage general program settings"
+
+msgid "تغيير كلمة السر الإدارية"
+msgstr "Change Admin Password"
+
+msgid "أدخل كلمة السر الحالية"
+msgstr "Enter current password"
+
+msgid "أدخل كلمة السر الجديدة"
+msgstr "Enter new password"
+
+msgid "تأكيد كلمة السر الجديدة"
+msgstr "Confirm new password"
+
+msgid "تم تغيير كلمة السر بنجاح"
+msgstr "Password changed successfully"
+
+msgid "كلمة السر غير صحيحة"
+msgstr "Incorrect password"
+
+msgid "ضبط أوزان المكونات (الحضور، الواجبات، الاستجوابات)"
+msgstr "Adjust weights of components (attendance, assignments, quizzes)"
+
+msgid "وزن الحضور"
+msgstr "Attendance Weight"
+
+msgid "وزن الواجب"
+msgstr "Assignment Weight"
+
+msgid "وزن الاستجوابات"
+msgstr "Quiz Weight"
+
+msgid "تفعيل وزن الغياب المبرر"
+msgstr "Enable Weight for Excused Absence"
+
+msgid "تطبيق التعديلات"
+msgstr "Apply Changes"
+
+msgid "تم حفظ الأوزان بنجاح"
+msgstr "Weights saved successfully"
+
+msgid "تعذر حفظ الأوزان"
+msgstr "Failed to save weights"
+
+msgid "📦 أرشفة السداسي"
+msgstr "📦 Archive Semester"
+
+msgid "تصدير جميع بيانات السداسي إلى ملف خارجي"
+msgstr "Export all semester data to an external file"
+
+msgid "هل ترغب في متابعة عملية الأرشفة؟"
+msgstr "Do you want to proceed with archiving?"
+
+msgid "تمت الأرشفة بنجاح."
+msgstr "Archiving completed successfully."
+
+msgid "حدث خطأ أثناء عملية الأرشفة."
+msgstr "An error occurred during archiving."
+
+msgid "إدارة النسخ الاحتياطية"
+msgstr "Backup Management"
+
+msgid "إنشاء نسخة احتياطية جديدة"
+msgstr "Create New Backup"
+
+msgid "استعادة من نسخة احتياطية"
+msgstr "Restore from Backup"
+
+msgid "تم إنشاء النسخة الاحتياطية بنجاح."
+msgstr "Backup created successfully."
+
+msgid "فشل في إنشاء النسخة الاحتياطية."
+msgstr "Failed to create backup."
+
+msgid "تمت الاستعادة بنجاح."
+msgstr "Restore completed successfully."
+
+msgid "فشل في عملية الاستعادة."
+msgstr "Restore failed."
+
+msgid "🌐 تغيير اللغة"
+msgstr "🌐 Change Language"
+
+msgid "اختر اللغة المفضلة لواجهة البرنامج"
+msgstr "Select your preferred interface language"
+
+msgid "تم تطبيق اللغة الجديدة. أعد تشغيل البرنامج لتفعيلها."
+msgstr "New language applied. Restart the program to activate it."
+
+msgid "🌙 تفعيل الوضع الليلي"
+msgstr "🌙 Enable Dark Mode"
+
+msgid "الوضع الليلي مفعّل"
+msgstr "Dark mode enabled"
+
+msgid "تم إيقاف الوضع الليلي"
+msgstr "Dark mode disabled"
+
+msgid "عرض دليل المستخدم وتعليمات الاستخدام"
+msgstr "Display the user guide and instructions"
+
+msgid "حول البرنامج"
+msgstr "About the Program"
+
+msgid "إصدار"
+msgstr "Version"
+
+msgid "حقوق النشر"
+msgstr "Copyright"
+
+msgid "جامعة محمد بوضياف - المسيلة"
+msgstr "University of Mohamed Boudiaf – M’sila"
+
+msgid "مشروع ميزان الطالب"
+msgstr "Student Balance Project"
+
+msgid "📂 أرشيف الحصص"
+msgstr "📂 Session Archive"
+
+msgid "📊 ملخص الإحصائيات حسب القسم ونوع الحصة"
+msgstr "📊 Summary by Class and Session Type"
+
+msgid "تم تصدير البيانات بنجاح"
+msgstr "Data exported successfully"
+
+msgid "تعذر الوصول إلى Workbook داخل openpyxl."
+msgstr "Unable to access Workbook within openpyxl."
+
+msgid "💾 حفظ التعديلات"
+msgstr "💾 Save Modifications"
+
+msgid "🗑 حذف المحدد"
+msgstr "🗑 Delete Selected"
+
+msgid "➕ إضافة طالب"
+msgstr "➕ Add Student"
+
+msgid "📂 فتح مجلد الأرشيف"
+msgstr "📂 Open Archive Folder"
+
+msgid "📦 إنشاء أرشيف جديد للسداسي الحالي"
+msgstr "📦 Create New Archive for Current Semester"
+
+msgid "⏪ استرجاع الأرشيف المحدد"
+msgstr "⏪ Restore Selected Archive"
+
+msgid "تعذر فتح مجلد الأرشيف:"
+msgstr "Unable to open archive folder:"
+
+msgid "تأكيد الأرشفة"
+msgstr "Confirm Archiving"
+
+msgid "سيتم حفظ نسخة من قاعدة البيانات الحالية وإنشاء قاعدة جديدة فارغة.\nهل تريد المتابعة؟"
+msgstr "A copy of the current database will be saved and a new empty one created.\nDo you want to continue?"
+
+msgid "تم حفظ الأرشيف باسم:"
+msgstr "Archive saved as:"
+
+msgid "تم إنشاء أرشيف جديد وتهيئة قاعدة بيانات جديدة."
+msgstr "New archive created and database initialized."
+
+msgid "تأكيد الاسترجاع"
+msgstr "Confirm Restoration"
+
+msgid "سيتم استبدال قاعدة البيانات الحالية بالملف:"
+msgstr "The current database will be replaced with the file:"
+
+msgid "تعذر استرجاع الأرشيف:"
+msgstr "Failed to restore archive:"
+
+msgid "تم استرجاع الأرشيف المحدد."
+msgstr "Selected archive restored."
+
+msgid "💾 حفظ"
+msgstr "💾 Save"
+
+msgid "❌ إلغاء"
+msgstr "❌ Cancel"
+
+msgid "🔍 عرض"
+msgstr "🔍 Show"
+
+msgid "✅ البحث عن الطالب"
+msgstr "✅ Search Student"
+
+msgid "📊 إحصائيات الطالب"
+msgstr "📊 Student Statistics"
+
+msgid "القيمة الحالية: {value}"
+msgstr "Current value: {value}"
+
+msgid "قيمة غير صالحة"
+msgstr "Invalid value"
+
+msgid "أدخل رقم أو اسم أو لقب للبحث."
+msgstr "Enter an ID, first name, or surname to search."
+
+msgid "تعذر تنفيذ البحث:\n{error}"
+msgstr "Search failed:\n{error}"
+
+msgid "تم حفظ التعديلات."
+msgstr "Changes saved successfully."
+
+msgid "لا توجد سجلات لهذا الطالب."
+msgstr "No records found for this student."
+
+msgid "📂 أرشيف الحصص"
+msgstr "📂 Session Archive"
+
+msgid "حجم الخط"
+msgstr "Font Size"
+
+msgid "إنشاء قسم جديد"
+msgstr "Create New Class"
+
+msgid "الطور"
+msgstr "Cycle"
+
+msgid "ليسانس"
+msgstr "Licence"
+
+msgid "ماستر"
+msgstr "Master"
+
+msgid "السنة"
+msgstr "Year"
+
+msgid "الفوج"
+msgstr "Group"
+
+msgid "بدون تفويج"
+msgstr "No Grouping"
+
+msgid "الفصيلة (A-D، اختياري)"
+msgstr "Section (A–D, optional)"
+
+msgid "بدون فصيلة"
+msgstr "No Section"
+
+msgid "التخصص (اختياري، 3-6 أحرف لاتينية)"
+msgstr "Specialty (optional, 3–6 Latin letters)"
+
+msgid "خطأ"
+msgstr "Error"
+
+msgid "يجب اختيار الطور والسنة"
+msgstr "You must select both cycle and year"
+
+msgid "التخصص يجب أن يكون 3 إلى 6 أحرف لاتينية"
+msgstr "The specialty must be 3 to 6 Latin letters"
+
+msgid "تنبيه"
+msgstr "Warning"
+
+msgid "يوجد قسم بنفس المعرف أو المواصفات بالفعل. يرجى اختيار قيم مختلفة."
+msgstr "A class with the same identifier or attributes already exists. Please choose different values."
+
+msgid "تعذر إنشاء القسم:\n{e}"
+msgstr "Failed to create class:\n{e}"
+
+msgid "تم"
+msgstr "Done"
+
+msgid "تم إنشاء القسم {cid}"
+msgstr "Class {cid} created successfully"
+
+msgid "ملاحظة: بعد الانتهاء من إضافة الأقسام الجديدة يجب إعادة تشغيل البرنامج قبل العمل بها"
+msgstr "Note: After adding new classes, please restart the program before using them"
+
+msgid "❌ إغلاق"
+msgstr "❌ Close"
+
+msgid "✅ إنشاء"
+msgstr "✅ Create"
+
+msgid "📝 تسجيل الـحضور"
+msgstr "Attendance recording 📝"
+
+msgid "➕ إضافة طلبة من القائمة"
+msgstr "➕ Add from the list"
+
+msgid "♻️ تفريغ القائمة"
+msgstr "clear all ♻️"
+
+msgid "➕ إضافة / ✏️ تعديل"
+msgstr "➕ add / ✏️ edit"
+
+msgid "✅ تطبيق الفلترة"
+msgstr "✅ Applly the filter"
+
+msgid "الاسم"
+msgstr "Surname"
+
+msgid "الاختبار"
+msgstr "test"
+
+
+msgid "📋 كل الأقسام"
+msgstr "📋 all classes"
+
+msgid "📋 كل الاختبارات"
+msgstr "📋 All tests"
+
+msgid "اسم الاختبار"
+msgstr "test name"
+
+msgid "نوع الاختبار"
+msgstr "test type"
+
+msgid "اختبار موجود"
+msgstr "existing test"
+
+msgid "نوع الاختبار"
+msgstr "test type"
+
+msgid " إدارة الاختبارات"
+msgstr "Tests management"
+
+msgid "القسم / الأقسام المستهدفة"
+msgstr "Targeted Class/classes"
+
+msgid "تفصيل نقطة التقويم المستمر 🖊️"
+msgstr "🖊️ Continuous assessment details"
+
+
+msgid "تفعيل وضع التقسيم إلى فوجين فرعيين"
+msgstr "Enable two-subgroup mode"
+
+msgid "رقم الطالب"
+msgstr "Student id"
+
+msgid "سبب التبرير"
+msgstr "Absence reason"
+
+msgid "الطالب"
+msgstr "Student"
+
+msgid "نطاق العرض"
+msgstr "Display range"
+
+msgid "📄 إدارة الغيابات المبررة"
+msgstr "📄 Manage justified absences"
+
+msgid "الدرجة"
+msgstr "Grade"
+
+msgid "➕ إضافة"
+msgstr "➕ Add"
+
+msgid "🗑️ حذف"
+msgstr "🗑️ Delete"
+
+msgid "📌 الرقم"
+msgstr "📌 id"
+
+msgid "👤 اللقب"
+msgstr  "👤 Name"
+
+msgid "👥 الاسم"
+msgstr "👥 Surname"
+
+msgid "📖 الحضور"
+msgstr "📖 Attendance"
+
+msgid "💬 المشاركة"
+msgstr "💬 Participation"
+
+# --- Added (2026-01) missing UI strings ---
+msgid "🔎 بحث (رقم/اسم/لقب)"
+msgstr "🔎 Search (ID/First/Last)"
+
+msgid "🔎 بحث (لقب/اسم/رقم)"
+msgstr "🔎 Search (Last/First/ID)"
+
+msgid "🔎 بحث"
+msgstr "🔎 Search"
+
+msgid "(لقب/اسم/رقم)"
+msgstr "(Last/First/ID)"
+
+msgid "📊 إحصائيات"
+msgstr "📊 Statistics"
+
+msgid "دابل كليك على طالب لعرض الإحصائيات"
+msgstr "Double-click a student to view statistics"
+
+msgid "ابحث باللقب أو الاسم أو الرقم"
+msgstr "Search by last name, first name, or ID"
+
+msgid "اكتب لتصفية النتائج حسب الطالب"
+msgstr "Type to filter results by student"
+
+msgid "المعروض: {shown} / {total}"
+msgstr "Shown: {shown} / {total}"
+
+msgid "📋 كل الطلبة"
+msgstr "📋 All students"
+
+msgid "📚 {cycle} {year}"
+msgstr "📚 {cycle} {year}"
+
+msgid "{class_id} ({cycle} {year})"
+msgstr "{class_id} ({cycle} {year})"
+
+msgid "إدارة الطلبة"
+msgstr "Student Management"
+
+msgid "📝 إستجوابات"
+msgstr  "📝 Tests"
+
+msgid "📚 الواجب"
+msgstr "📚 Homework"
+
+msgid "⚖️ المجموع"
+msgstr "⚖️ Total"
+
+msgid "🔍 بحث"
+msgstr "🔍 Find"
+
+# --- Added (2026-01) missing msgids from code audit (batch 1) ---
+msgid " تم تحديث {updated} سجل."
+msgstr " Updated {updated} record(s)."
+
+msgid " لم يتم حفظ {skipped} تكرار."
+msgstr " {skipped} duplicate(s) not saved."
+
+msgid "(غير مفعل)"
+msgstr "(Disabled)"
+
+msgid ":علم الطلبة المستثنين من الإقصاء لهذا القسم ونوع الحصة"
+msgstr ":Mark students exempt from exclusion for this class and session type"
+
+msgid "آخر حضور"
+msgstr "Last attendance"
+
+msgid "أدخل وصفًا مختصرًا مثل: غياب لسبب طبي (اتركه فارغًا إن لم يلزم)"
+msgstr "Enter a short note, e.g.: medical absence (leave empty if not needed)"
+
+msgid "أضف الطلبة المحددين إلى قائمة الحضور"
+msgstr "Add selected students to the attendance list"
+
+msgid "أول حضور"
+msgstr "First attendance"
+
+msgid "إجمالي الحصص: {total_sessions}  —  عدد الأسابيع: {total_weeks}  —  معدل الحصص لكل أسبوع: {sessions_per_week:.2f}"
+msgstr "Total sessions: {total_sessions} — Weeks: {total_weeks} — Sessions per week: {sessions_per_week:.2f}"
+
+msgid "إجمالي المشاركة"
+msgstr "Total participation"
+
+msgid "إحصائيات الأقسام"
+msgstr "Class statistics"
+
+msgid "إحصائيات الطالب"
+msgstr "Student statistics"
+
+msgid "إدارة الاختبارات — إضافة / تعديل / حذف"
+msgstr "Test management — Add / Edit / Delete"
+
+msgid "إدارة الاستثناءات"
+msgstr "Exemptions management"
+
+msgid "إدارة الاستثناءات — {cid}"
+msgstr "Exemptions management — {cid}"
+
+msgid "إدارة التبريرات وإضافة غيابات مبررة للطلبة"
+msgstr "Manage excuses and add excused absences for students"
+
+msgid "إدارة حالات الإقصاء — طلاب مهددون بالإقصاء"
+msgstr "Exclusion cases — Students at risk of exclusion"
+
+msgid "إزالة التبرير المحدد من القائمة"
+msgstr "Remove the selected excuse from the list"
+
+msgid "إزالة الطالب المحدد من القائمة المؤقتة"
+msgstr "Remove the selected student from the temporary list"
+
+msgid "إزالة العلامة عن كل الطلبة"
+msgstr "Uncheck all students"
+
+msgid "إضافة تبريرات جديدة للفترة المحددة"
+msgstr "Add new excuses for the selected period"
+
+msgid "إضافة طالب"
+msgstr "Add student"
+
+msgid "إضافة غياب مبرر"
+msgstr "Add excused absence"
+
+msgid "إضافة يدويًا — اختيار طلبة"
+msgstr "Manual add — Select students"
+
+msgid "إعادة تحميل النتائج باستخدام القيم المحددة في الفلاتر"
+msgstr "Reload results using the selected filter values"
+
+msgid "إغلاق النافذة والرجوع للشاشة الرئيسية"
+msgstr "Close the window and return to the main screen"
+
+msgid "إغلاق نافذة إدارة الاختبارات"
+msgstr "Close the Test Management window"
+
+msgid "إلغاء"
+msgstr "Cancel"
+
+msgid "إلغاء الكل"
+msgstr "Clear all"
+
+msgid "إلى تاريخ"
+msgstr "To date"
+
+msgid "إنشاء اختبار جديد أو حفظ التعديلات الحالية"
+msgstr "Create a new test or save current changes"
+
+msgid "اختر اختبارًا موجودًا أولًا للحذف."
+msgstr "Select an existing test first to delete."
+
+msgid "اختر اختبارًا موجودًا في القسم المحدد لتعديله أو حذفه"
+msgstr "Select an existing test in the selected class to edit or delete"
+
+msgid "اختر الطالب"
+msgstr "Select student"
+
+msgid "اختر الطالب أولًا."
+msgstr "Select a student first."
+
+msgid "اختر الطالب الذي ترغب في مراجعة تبريراته"
+msgstr "Select the student whose excuses you want to review"
+
+msgid "اختر القسم"
+msgstr "Select class"
+
+msgid "اختر القسم الجديد."
+msgstr "Select the new class."
+
+msgid "اختر القسم الذي تود مراجعة تبريراته"
+msgstr "Select the class whose excuses you want to review"
+
+msgid "اختر القسم الذي تود مراجعة درجاته"
+msgstr "Select the class whose grades you want to review"
+
+msgid "اختر القسم لعرض طلبته"
+msgstr "Select a class to view its students"
+
+msgid "اختر القسم لعرض نتائجه النهائية"
+msgstr "Select a class to view its final results"
+
+msgid "اختر القسم والطالب ونوع الحصة أولا"
+msgstr "Select class, student, and session type first"
+
+msgid "اختر القسم:"
+msgstr "Select class:"
+
+msgid "اختر تبريراً من الجدول"
+msgstr "Select an excuse from the table"
+
+msgid "اختر حصة أو أكثر"
+msgstr "Select one or more sessions"
+
+msgid "اختر سطرًا"
+msgstr "Select a row"
+
+msgid "اختر سطرًا لحذفه"
+msgstr "Select a row to delete"
+
+msgid "اختر طالباً."
+msgstr "Select a student."
+
+msgid "اختر طالبًا أولاً من الجدول."
+msgstr "Select a student from the table first."
+
+msgid "اختر قسماً ونوع الحصة أولاً"
+msgstr "Select class and session type first"
+
+msgid "اختر قسمًا أولًا"
+msgstr "Select a class first"
+
+msgid "اختر قسمًا واحدًا على الأقل."
+msgstr "Select at least one class."
+
+msgid "اختر قسمًا واحدًا لحذف اختبار."
+msgstr "Select exactly one class to delete a test."
+
+msgid "اختر قسمًا واحدًا للتعديل أو عدة أقسام للإنشاء"
+msgstr "Select one class to edit, or multiple classes to create"
+
+msgid "اختر نوع الحصة"
+msgstr "Select session type"
+
+msgid "اختر نوع الحصة ثم اضغط عرض لإظهار النتائج"
+msgstr "Select session type, then press Show to display results"
+
+msgid "اختر نوع الحصة قبل الحفظ."
+msgstr "Select session type before saving."
+
+msgid "اختيار القسم لتصفية قائمة الاختبارات والنتائج"
+msgstr "Choose class to filter tests and results"
+
+msgid "اختيار الكل"
+msgstr "Select all"
+
+msgid "اختياري: اختر التاريخ من التقويم. عند تركه فارغاً تُحسب كل الحصص."
+msgstr "Optional: choose the date from the calendar. If left empty, all sessions are counted."
+
+msgid "اختَر الحصص المطلوب تبريرها من القائمة"
+msgstr "Select the sessions to excuse from the list"
+
+msgid "اربط الاختبار بالمادة ونوع الحصة المناسبة"
+msgstr "Link the test to the subject and the correct session type"
+
+msgid "استخدم البحث لتصفية قائمة الطلبة"
+msgstr "Use search to filter the students list"
+
+msgid "اسم الاختبار كما يظهر في القوائم والتقارير"
+msgstr "Test name as shown in lists and reports"
+
+msgid "اضغط مع الضغط على Ctrl أو Shift لاختيار عدة أقسام"
+msgstr "Hold Ctrl or Shift to select multiple classes"
+
+msgid "الحصص الرسمية"
+msgstr "Official sessions"
+
+msgid "الدرجة يجب أن تكون رقمية أو فارغة."
+msgstr "Score must be numeric or empty."
+
+msgid "الطالب {sid} غير موجود في قائمة الطلبة."
+msgstr "Student {sid} is not in the students list."
+
+# --- Added (2026-01) missing msgids from code audit (batch 2) ---
+msgid "الطالب موجود مسبقًا في هذه الحصة."
+msgstr "The student is already added to this session."
+
+msgid "الغيابات"
+msgstr "Absences"
+
+msgid "القائمة فارغة بالفعل."
+msgstr "The list is already empty."
+
+msgid "القسم: {class_id}"
+msgstr "Class: {class_id}"
+
+msgid "الكاميرا"
+msgstr "Camera"
+
+msgid "المكتبة openpyxl غير مثبتة في هذه البيئة.\nثبت الحزمة ثم حاول مجددًا."
+msgstr "The openpyxl library is not installed in this environment.\nInstall the package and try again."
+
+msgid "المكتبة tkcalendar غير مثبتة في هذه البيئة. ثبتها ثم حاول مجددًا."
+msgstr "The tkcalendar library is not installed in this environment. Install it and try again."
+
+msgid "النتائج النهائية"
+msgstr "Final results"
+
+msgid "انقر على حصة لعرض تفاصيلها الكاملة"
+msgstr "Click a session to view full details"
+
+msgid "تأكيد"
+msgstr "Confirm"
+
+msgid "تحميل وعرض النتائج النهائية للطلاب"
+msgstr "Load and display students' final results"
+
+msgid "تصدير Excel"
+msgstr "Export Excel"
+
+msgid "تصدير النتائج الحالية إلى ملف Excel"
+msgstr "Export current results to an Excel file"
+
+msgid "تصدير ناجح"
+msgstr "Export successful"
+
+msgid "تصفية النتائج حسب اختبار محدد أو عرض كل الاختبارات"
+msgstr "Filter results by a specific test or show all tests"
+
+msgid "تعديل الدرجة"
+msgstr "Edit score"
+
+msgid "تعديل قائمة الطلبة ودرجات المشاركة للحصة المحددة (يتطلب كلمة السر الإدارية)"
+msgstr "Edit the student list and participation scores for the selected session (requires admin password)"
+
+msgid "تعذر إنشاء الاختبار:\n{error}"
+msgstr "Failed to create the test:\n{error}"
+
+msgid "تعذر استيراد الطلبة:\n{error}"
+msgstr "Failed to import students:\n{error}"
+
+msgid "تعذر البحث عن الحصص:\n{exc}"
+msgstr "Failed to search sessions:\n{exc}"
+
+msgid "تعذر التصدير:\n{exc}"
+msgstr "Export failed:\n{exc}"
+
+msgid "تعذر الحذف:\n{exc}"
+msgstr "Delete failed:\n{exc}"
+
+msgid "تعذر الحفظ:\n{error}"
+msgstr "Save failed:\n{error}"
+
+msgid "تعذر الوصول:\n{error}"
+msgstr "Access failed:\n{error}"
+
+msgid "تعذر تحديث الاختبار: {error}"
+msgstr "Failed to update the test: {error}"
+
+msgid "تعذر تحديث الدرجة:\n{error}"
+msgstr "Failed to update the score:\n{error}"
+
+msgid "تعذر تحديث بيانات الاختبار:\n{error}"
+msgstr "Failed to update test data:\n{error}"
+
+msgid "تعذر تحديد الاختبار المحدد."
+msgstr "Failed to identify the selected test."
+
+msgid "تعذر تحديد الطالب المطلوب"
+msgstr "Failed to identify the required student"
+
+msgid "تعذر تحديد الطالب لحذف التبرير."
+msgstr "Failed to identify the student to delete the excuse."
+
+msgid "تعذر تحديد تاريخ الجلسة للحذف."
+msgstr "Failed to determine the session date to delete."
+
+msgid "تعذر تحميل أنواع الحصص:\n{error}"
+msgstr "Failed to load session types:\n{error}"
+
+msgid "تعذر تحميل أنواع الحصص:\n{exc}"
+msgstr "Failed to load session types:\n{exc}"
+
+msgid "تعذر تحميل الأقسام:\n{error}"
+msgstr "Failed to load classes:\n{error}"
+
+msgid "تعذر تحميل الاختبارات للقسم المحدد:\n{error}"
+msgstr "Failed to load tests for the selected class:\n{error}"
+
+msgid "تعذر تحميل التبريرات:\n{exc}"
+msgstr "Failed to load excuses:\n{exc}"
+
+msgid "تعذر تحميل الحصص:\n{error}"
+msgstr "Failed to load sessions:\n{error}"
+
+msgid "تعذر تحميل الحضور:\n{error}"
+msgstr "Failed to load attendance:\n{error}"
+
+msgid "تعذر تحميل الطلبة للقسم {class_id}:\n{error}"
+msgstr "Failed to load students for class {class_id}:\n{error}"
+
+msgid "تعذر تحميل الطلبة:\n{exc}"
+msgstr "Failed to load students:\n{exc}"
+
+msgid "تعذر تحميل بيانات الاختبار المحدد:\n{error}"
+msgstr "Failed to load the selected test data:\n{error}"
+
+msgid "تعذر تحميل تفاصيل الحصة:\n{error}"
+msgstr "Failed to load session details:\n{error}"
+
+msgid "تعذر تحميل قائمة الاختبارات:\n{error}"
+msgstr "Failed to load the tests list:\n{error}"
+
+msgid "تعذر تحميل قائمة الطلاب:\n{error}"
+msgstr "Failed to load the students list:\n{error}"
+
+msgid "تعذر تحميل نتائج الاختبارات:\n{error}"
+msgstr "Failed to load test results:\n{error}"
+
+msgid "تعذر تشغيل الكاميرا."
+msgstr "Failed to start the camera."
+
+msgid "تعذر جلب الإحصائيات:\n{error}"
+msgstr "Failed to fetch statistics:\n{error}"
+
+msgid "تعذر حذف الاختبار:\n{error}"
+msgstr "Failed to delete the test:\n{error}"
+
+msgid "تعذر حذف الاختبار: {error}"
+msgstr "Failed to delete the test: {error}"
+
+msgid "تعذر حذف الطالب:\n{error}"
+msgstr "Failed to delete the student:\n{error}"
+
+msgid "تعذر حذف القسم:\n{exc}"
+msgstr "Failed to delete the class:\n{exc}"
+
+msgid "تعذر حساب الإحصائيات:\n{error}"
+msgstr "Failed to calculate statistics:\n{error}"
+
+msgid "تعذر حساب الحالات:\n{exc}"
+msgstr "Failed to calculate cases:\n{exc}"
+
+msgid "تعذر حساب النتائج:\n{exc}"
+msgstr "Failed to calculate results:\n{exc}"
+
+msgid "تعذر حفظ إعداد وضع التقسيم في قاعدة البيانات."
+msgstr "Failed to save the split-mode setting in the database."
+
+msgid "تعذر حفظ التبريرات:\n{exc}"
+msgstr "Failed to save excuses:\n{exc}"
+
+msgid "تعذر حفظ التعديلات:\n{error}"
+msgstr "Failed to save changes:\n{error}"
+
+msgid "تعذر حفظ الطالب:\n{error}"
+msgstr "Failed to save the student:\n{error}"
+
+msgid "تعذر قراءة أنواع الحصص:\n{error}"
+msgstr "Failed to read session types:\n{error}"
+
+msgid "تعذر قراءة الأوزان."
+msgstr "Failed to read weights."
+
+msgid "تعذر قراءة بيانات الحصة المحددة."
+msgstr "Failed to read the selected session data."
+
+msgid "تعذر قراءة بيانات الطالب المحدد"
+msgstr "Failed to read the selected student data"
+
+msgid "تعذر قراءة بيانات الطالب المحدد."
+msgstr "Failed to read the selected student data."
+
+msgid "تعذر قراءة قاعدة البيانات"
+msgstr "Failed to read the database"
+
+msgid "تعيين الأعمدة"
+msgstr "Set columns"
+
+msgid "تفعيل العلامة لكل الطلبة في القائمة"
+msgstr "Check all students in the list"
+
+msgid "تفعيل الوضع النهاري"
+msgstr "Enable light mode"
+
+msgid "تم إلغاء حفظ الحصة"
+msgstr "Session save cancelled"
+
+msgid "تم إنشاء الاختبار للأقسام: {classes}"
+msgstr "Test created for classes: {classes}"
+
+msgid "تم تجاهل {skipped} لأنهم موجودون مسبقًا."
+msgstr "Skipped {skipped} because they already exist."
+
+msgid "تم تحديث {updated} سجل موجود."
+msgstr "Updated {updated} existing record(s)."
+
+msgid "تم تحديث بيانات الاختبار."
+msgstr "Test data updated."
+
+msgid "تم تصدير الحساب النهائي إلى Excel"
+msgstr "Final report exported to Excel"
+
+msgid "تم حذف الاختبار."
+msgstr "Test deleted."
+
+msgid "تم حفظ {saved} سجل."
+msgstr "Saved {saved} record(s)."
+
+msgid "تم حفظ التبريرات المحددة"
+msgstr "Selected excuses saved"
+
+msgid "تم حفظ الجلسة ({saved} سجل جديد)."
+msgstr "Session saved ({saved} new record(s))."
+
+msgid "تنسيق غير صحيح: {value}"
+msgstr "Invalid format: {value}"
+
+msgid "جدول النقاط النهائية لكل طالب حسب مكونات التقييم"
+msgstr "Final points table for each student by assessment components"
+
+msgid "جدول نتائج الطلبة. انقر مزدوجًا على الدرجة لتعديلها."
+msgstr "Students results table. Double-click a score to edit it."
+
+msgid "جلب الحصص المتاحة ضمن الفترة والتخصص المحددين"
+msgstr "Fetch available sessions within the selected period and specialization"
+
+msgid "حدد الطلبة الذين تريد إضافتهم للحضور"
+msgstr "Select students you want to add to attendance"
+
+msgid "حدد تاريخ البداية والنهاية"
+msgstr "Select the start and end dates"
+
+msgid "حدد تاريخ بداية الفترة المراد تبريرها"
+msgstr "Select the start date of the period to excuse"
+
+msgid "حدد تاريخ نهاية الفترة المراد تبريرها"
+msgstr "Select the end date of the period to excuse"
+
+msgid "حدد تصنيف الاختبار (استجواب، واجب، ... )"
+msgstr "Select test category (quiz, homework, ... )"
+
+msgid "حدد سطرًا ثم عدل القيم في الحقول أعلاه"
+msgstr "Select a row, then edit the values in the fields above"
+
+msgid "حدد نطاق العرض بين طالب واحد، قسم كامل أو جميع الأقسام"
+msgstr "Choose the scope: one student, one class, or all classes"
+
+msgid "حدد نوع الحصة أو المادة المراد تقييمها"
+msgstr "Select the session type/subject to evaluate"
+
+msgid "حدد نوع الحصة لتصفية التبريرات"
+msgstr "Select session type to filter excuses"
+
+msgid "حذف {sid} - {surname} {name}؟"
+msgstr "Delete {sid} - {surname} {name}?"
+
+msgid "حذف الاختبار المحدد للقسم الحالي إذا لم تُسجل درجات"
+msgstr "Delete the selected test for the current class if no scores were recorded"
+
+msgid "حذف الطالب من هذه الحصة"
+msgstr "Remove the student from this session"
+
+msgid "حذف نوع الحصة المحدد من القائمة"
+msgstr "Delete the selected session type from the list"
+
+msgid "حزمة openpyxl غير مثبتة في هذه البيئة. ثبتها ثم حاول مجددًا."
+msgstr "The openpyxl package is not installed in this environment. Install it and try again."
+
+msgid "حزمة pandas غير مثبتة في هذه البيئة. ثبتها ثم حاول مجددًا."
+msgstr "The pandas package is not installed in this environment. Install it and try again."
+
+msgid "حفظ نتائج الحصة الحالية في ملف Excel"
+msgstr "Save current session results to an Excel file"
+
+msgid "رمز الحصة"
+msgstr "Session code"
+
+msgid "رمز الحصة: {token}"
+msgstr "Session code: {token}"
+
+msgid "سبب التبرير (اختياري)"
+msgstr "Excuse reason (optional)"
+
+# --- Added (2026-01) missing msgids from code audit (batch 3) ---
+msgid "سيؤدي الحذف إلى إزالة الاختبار وسجلاته الفارغة. هل تريد المتابعة؟"
+msgstr "Deleting will remove the test and its empty records. Continue?"
+
+msgid "سيُحتسب الغياب المبرر كحضور كامل."
+msgstr "An excused absence will be counted as full attendance."
+
+msgid "شاشة إدارة الاختبارات وعرض نتائج الطلبة"
+msgstr "Test management screen and student results view"
+
+msgid "صيغة التاريخ غير صحيحة. استعمل YYYY-MM-DD أو DD/MM/YYYY"
+msgstr "Invalid date format. Use YYYY-MM-DD or DD/MM/YYYY"
+
+msgid "طالب محدد"
+msgstr "Selected student"
+
+msgid "عتبة الغياب"
+msgstr "Absence threshold"
+
+msgid "عدد الجلسات"
+msgstr "Number of sessions"
+
+msgid "عدد الطلبة الحاليين مقارنة بإجمالي القسم"
+msgstr "Current students count compared to class total"
+
+msgid "عدد مرات الحضور"
+msgstr "Attendance count"
+
+msgid "عرض تفصيلي لنقاط المتابعة المستمرة لكل طالب"
+msgstr "Detailed view of continuous assessment points for each student"
+
+msgid "غير محدد"
+msgstr "Unspecified"
+
+msgid "فتح نافذة لإضافة اختبار جديد أو تعديل/حذف اختبار موجود"
+msgstr "Open a window to add a new test or edit/delete an existing test"
+
+msgid "فشل التحقق من كلمة السر"
+msgstr "Password verification failed"
+
+msgid "فعل هذا الخيار بشكل إجباري إذا كان هذا القسم مقسم على فوجين فرعيين يتابعان دروس نفس نوع الحصة"
+msgstr "Enable this option if this class is split into two groups attending the same session type"
+
+msgid "قائمة الطلبة المشاركين وتقييماتهم في الحصة المحددة"
+msgstr "List of participating students and their evaluations in the selected session"
+
+msgid "قائمة الغيابات المبررة مع عرض سبب التبرير إن وُجد"
+msgstr "List of excused absences, showing the reason if provided"
+
+msgid "قاعدة البيانات"
+msgstr "Database"
+
+msgid "قسم كامل"
+msgstr "Full class"
+
+msgid "قيمة المشاركة (اختياري)"
+msgstr "Participation value (optional)"
+
+msgid "قيمة المشاركة يجب أن تكون رقمية"
+msgstr "Participation value must be numeric"
+
+msgid "قيمة المشاركة يجب أن تكون رقمية."
+msgstr "Participation value must be numeric."
+
+msgid "كل الأقسام"
+msgstr "All classes"
+
+msgid "كل الحقول مطلوبة."
+msgstr "All fields are required."
+
+msgid "كل الطلاب مسجلون بالفعل في هذه الحصة."
+msgstr "All students are already registered in this session."
+
+msgid "كلمة السر الإدارية مطلوبة للحفظ"
+msgstr "Admin password is required to save"
+
+msgid "لا توجد أقسام معرفة في النظام."
+msgstr "No classes are defined in the system."
+
+msgid "لا توجد بيانات لتصديرها."
+msgstr "No data to export."
+
+msgid "لا توجد حالات"
+msgstr "No cases"
+
+msgid "لا يمكن تعديل اختبار عند اختيار عدة أقسام."
+msgstr "Cannot edit a test when multiple classes are selected."
+
+msgid "لا يمكن تعديل الاختبار بعد إدخال درجات."
+msgstr "Cannot edit the test after entering scores."
+
+msgid "لا يمكن حذف الاختبار بعد إدخال درجات."
+msgstr "Cannot delete the test after entering scores."
+
+msgid "لا يوجد"
+msgstr "None"
+
+msgid "لا يوجد شيء"
+msgstr "Nothing"
+
+msgid "لا يوجد طلاب مهددون بالإقصاء للمحددات الحالية"
+msgstr "No students at risk of exclusion for the current filters"
+
+msgid "لم تُحدد أي طالب."
+msgstr "No student selected."
+
+msgid "لم يتم إضافة أي طالب."
+msgstr "No student was added."
+
+msgid "لم يتم الإنشاء للأقسام التالية لوجود اختبار بنفس الاسم: {classes}"
+msgstr "Not created for the following classes because a test with the same name already exists: {classes}"
+
+msgid "لم يتم العثور على الطالب المحدد لحذفه."
+msgstr "Selected student not found to delete."
+
+msgid "لم يتم العثور على بيانات للاختبار المحدد."
+msgstr "No data found for the selected test."
+
+msgid "لم يتم تعديل بيانات الطالب (ربما لم تتغير)."
+msgstr "Student data was not updated (it may be unchanged)."
+
+msgid "مسح"
+msgstr "Clear"
+
+msgid "مغادرة؟"
+msgstr "Exit?"
+
+msgid "ملفات Excel"
+msgstr "Excel files"
+
+msgid "من تاريخ"
+msgstr "From date"
+
+msgid "نوع الحصة {value} غير موجود."
+msgstr "Session type {value} not found."
+
+msgid "نوع الحصة غير صالح"
+msgstr "Invalid session type"
+
+msgid "نوع الحصة غير صالح."
+msgstr "Invalid session type."
+
+msgid "نوع الحصة غير موجود."
+msgstr "Session type not found."
+
+msgid "نوع الحصة: {stype_label}"
+msgstr "Session type: {stype_label}"
+
+msgid "هل أنت متأكد من الحذف؟"
+msgstr "Are you sure you want to delete?"
+
+msgid "هل أنت متأكد من قبول التبريرات المحددة؟"
+msgstr "Are you sure you want to accept the selected excuses?"
+
+msgid "هناك قائمة حضور غير محفوظة. هل تريد حقًا المغادرة؟"
+msgstr "There is an unsaved attendance list. Do you really want to leave?"
+
+msgid "يجب اختيار قسم أولاً"
+msgstr "You must select a class first"
+
+msgid "يجب تنشيط قسم أولاً"
+msgstr "You must activate a class first"
+
+msgid "يوجد اختبار آخر بنفس الاسم لهذا القسم ونوع الحصة."
+msgstr "Another test with the same name exists for this class and session type."
+
+msgid "— إنشاء جديد —"
+msgstr "— Create new —"
+
+msgid "⚠️ جميع الطلبة المحددين موجودون مسبقًا في القائمة."
+msgstr "⚠️ All selected students are already in the list."
+
+msgid "✅ إضافة المحددين"
+msgstr "✅ Add selected"
+
+msgid "✅ تم تسجيل {surname} {name}"
+msgstr "✅ Recorded {surname} {name}"
+
+msgid "✅ تمت إضافة {added} طالب جديد.\n⚠️ لم يتم إضافة {skipped} لأنهم موجودون مسبقًا."
+msgstr "✅ Added {added} new student(s).\n⚠️ {skipped} were not added because they already exist."
+
+msgid "✅ تمت إضافة {count} طالب."
+msgstr "✅ Added {count} student(s)."
+
+msgid "✅ تمت إضافة طالب واحد."
+msgstr "✅ Added one student."
+
+msgid "✏️ تعديل المشاركة"
+msgstr "✏️ Edit participation"
+
+msgid "👤 {name} {surname} ({student_id})"
+msgstr "👤 {name} {surname} ({student_id})"
+
+msgid "👤 {student_id} - {surname} {name}"
+msgstr "👤 {student_id} - {surname} {name}"
+
+msgid "👤 {student} — {test}"
+msgstr "👤 {student} — {test}"
+
+msgid "💾 تأكيد الحفظ"
+msgstr "💾 Confirm save"
+
+msgid "📚 إدارة أنواع الحصص"
+msgstr "📚 Session types management"
+
+msgid "📤 تصدير Excel"
+msgstr "📤 Export Excel"
+
+msgid "📷 الكاميرا متوقفة"
+msgstr "📷 Camera stopped"
+
+msgid "🔴 تنشيط القسم"
+msgstr "🔴 Activate class"
+
+# --- Added (2026-01) remaining msgids from code audit (batch 4) ---
+msgid "#"
+msgstr "#"
+
+msgid "✔"
+msgstr "✔"
+
+msgid "(100%)"
+msgstr "(100%)"
+
+msgid "(125%)"
+msgstr "(125%)"
+
+msgid "(150%)"
+msgstr "(150%)"
+
+msgid "{name} {surname} ({sid})"
+msgstr "{name} {surname} ({sid})"
+
+msgid "⚠️ {message}"
+msgstr "⚠️ {message}"
+
+# --- Added (2026-01) dialogs: weights/password/archive ---
+msgid "تعديل الأوزان"
+msgstr "Edit Weights"
+
+msgid "وزن الحضور (/20)"
+msgstr "Attendance weight (/20)"
+
+msgid "وزن الاستجوابات (/20)"
+msgstr "Quizzes weight (/20)"
+
+msgid "وزن الواجبات المنزلية (/20)"
+msgstr "Homework weight (/20)"
+
+msgid "وزن المشاركة (/20)"
+msgstr "Participation weight (/20)"
+
+msgid "تفعيل الوزن المخفض للغياب المبرر"
+msgstr "Enable reduced weight for excused absence"
+
+msgid "تفعيل"
+msgstr "Enable"
+
+msgid "مجموع الأوزان الآن = {value} / 20"
+msgstr "Current weights total = {value} / 20"
+
+msgid "مجموع الأوزان: مدخلات غير صالحة"
+msgstr "Weights total: invalid input"
+
+msgid "يجب إدخال أرقام صحيحة أو عشرية فقط.\nصحح القيم ثم أعد المحاولة."
+msgstr "Enter only valid numbers (integers or decimals).\nFix the values and try again."
+
+msgid "مجموع الأوزان يجب أن يساوي 20 (المجموع الحالي = {total}).\nصحح القيم ثم أعد المحاولة."
+msgstr "Total weights must equal 20 (current total = {total}).\nFix the values and try again."
+
+msgid "تم حفظ الأوزان الجديدة."
+msgstr "New weights saved."
+
+msgid "التحقق"
+msgstr "Verification"
+
+msgid "أدخل كلمة السر الإدارية:"
+msgstr "Enter the admin password:"
+
+msgid "كلمة السر الإدارية غير صحيحة. هل تريد إعادة المحاولة؟"
+msgstr "Admin password is incorrect. Retry?"
+
+msgid "جديد"
+msgstr "New"
+
+msgid "أدخل كلمة السر الجديدة:"
+msgstr "Enter the new password:"
+
+msgid "أعد إدخال كلمة السر الجديدة:"
+msgstr "Re-enter the new password:"
+
+msgid "كلمتا السر غير متطابقتين"
+msgstr "Passwords do not match"
+
+msgid "تم تغيير كلمة السر."
+msgstr "Password changed."
+
+msgid "إدارة أرشيف ميزان الطالب"
+msgstr "Student Balance Archive Manager"
+
+msgid "احفظ نسخة من قاعدة البيانات الحالية أو استرجع نسخة محفوظة سابقة."
+msgstr "Back up the current database or restore a previous backup."
+
+msgid "📦 إنشاء أرشيف جديد للسداسي الحالي"
+msgstr "📦 Create new archive for current semester"
+
+msgid "⏪ استرجاع الأرشيف المحدد"
+msgstr "⏪ Restore selected archive"
+
+msgid "📂 فتح مجلد الأرشيف"
+msgstr "📂 Open archive folder"
+
+msgid "اسم الملف"
+msgstr "File name"
+
+msgid "تاريخ الإنشاء"
+msgstr "Created at"
+
+msgid "لا توجد نسخ أرشيفية بعد."
+msgstr "No archives yet."
+
+msgid "ملاحظة: إنشاء أرشيف جديد سيحفظ نسخة من قاعدة البيانات الحالية ثم ينشئ قاعدة فارغة تلقائيًا."
+msgstr "Note: Creating a new archive will back up the current database, then automatically create a new empty database."
+
+msgid "المجلد"
+msgstr "Folder"
+
+msgid "المجلد متوفر في:\n{path}"
+msgstr "Folder location:\n{path}"
+
+msgid "تعذر فتح مجلد الأرشيف:\n{error}"
+msgstr "Could not open archive folder:\n{error}"
+
+msgid "تأكيد الأرشفة"
+msgstr "Confirm archiving"
+
+msgid "سيتم حفظ نسخة من قاعدة البيانات الحالية وإنشاء قاعدة جديدة فارغة.\nهل تريد المتابعة؟"
+msgstr "A backup of the current database will be saved and a new empty database will be created.\nDo you want to continue?"
+
+msgid "لا يوجد بيانات"
+msgstr "No data"
+
+msgid "لم يتم العثور على ملف قاعدة البيانات الحالي للأرشفة"
+msgstr "Current database file not found for archiving."
+
+msgid "تعذر حفظ نسخة الأرشيف:\n{error}"
+msgstr "Could not create archive:\n{error}"
+
+msgid "تم حفظ الأرشيف باسم:\n{filename}"
+msgstr "Archive saved as:\n{filename}"
+
+msgid "تم إنشاء أرشيف جديد وتهيئة قاعدة بيانات جديدة."
+msgstr "Created a new archive and initialized a new database."
+
+msgid "لا يوجد أرشيف"
+msgstr "No archives"
+
+msgid "لا توجد ملفات أرشيف للاسترجاع."
+msgstr "No archive files to restore."
+
+msgid "اختر ملفًا"
+msgstr "Select a file"
+
+msgid "الرجاء اختيار ملف أرشيف من القائمة قبل الاسترجاع."
+msgstr "Please select an archive file from the list before restoring."
+
+msgid "تعذر تحديد الملف المحدد."
+msgstr "Could not determine the selected file."
+
+msgid "ملف الأرشيف المحدد غير موجود."
+msgstr "The selected archive file does not exist."
+
+msgid "تأكيد الاسترجاع"
+msgstr "Confirm restore"
+
+msgid "سيتم استبدال قاعدة البيانات الحالية بالملف:\n{filename}\nهل تريد المتابعة؟"
+msgstr "The current database will be replaced with:\n{filename}\nDo you want to continue?"
+
+msgid "تعذر استرجاع الأرشيف:\n{error}"
+msgstr "Could not restore archive:\n{error}"
+
+msgid "تم استرجاع الأرشيف:\n{filename}"
+msgstr "Archive restored:\n{filename}"
+
+msgid "تم استرجاع الأرشيف المحدد."
+msgstr "Restored the selected archive."

@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# SQLite database
+*.db
+*.db.bak-*
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Distribution
+*.egg-info/
+*.egg
+
+# Logs
+*.log

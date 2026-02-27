@@ -1,0 +1,98 @@
+erDiagram
+    CLASSES {
+        TEXT id PK
+        TEXT cycle
+        INTEGER year
+        INTEGER groupNbr
+        TEXT section
+        TEXT specialty
+    }
+    STUDENTS {
+        TEXT StudentId PK
+        TEXT Name
+        TEXT Surname
+        TEXT classId FK
+    }
+    SESSION_TYPES {
+        INTEGER id PK
+        TEXT subject_code
+        TEXT type
+    }
+    SESSIONS {
+        INTEGER id PK
+        TEXT sessionToken
+        TEXT StudentId FK
+        INTEGER presence
+        REAL participation
+        TEXT SessionDate
+        TEXT classId FK
+        INTEGER sessionTypeId FK
+    }
+    TESTS {
+        INTEGER IdTest PK
+        TEXT TestName
+        TEXT TestType
+        TEXT classId FK
+        INTEGER sessionTypeId FK
+        TEXT CreatedAt
+    }
+    TEST_RESULTS {
+        INTEGER IdResult PK
+        INTEGER TestId FK
+        TEXT StudentId FK
+        REAL degree
+    }
+    WEIGHTS {
+        INTEGER id PK
+        REAL attendance_weight
+        REAL quiz_weight
+        REAL homework_weight
+        REAL participation_weight
+        REAL total_sessions_expected
+        REAL max_participation_points
+        REAL max_quiz_points
+        REAL max_homework_points
+        REAL excused_weight
+    }
+    SETTINGS {
+        TEXT key PK
+        TEXT value
+    }
+    EXCUSED_ABSENCES {
+        INTEGER id PK
+        TEXT StudentId FK
+        TEXT sessionToken
+        INTEGER sessionTypeId FK
+        TEXT classId FK
+        TEXT excuse_date
+        REAL weight
+        TEXT justification_path
+    }
+    EXCLUSION_EXCEPTIONS {
+        INTEGER id PK
+        TEXT classId
+        INTEGER sessionTypeId
+        TEXT StudentId
+        TEXT reason
+        TEXT created_by
+        TEXT created_at
+    }
+    SUBGROUP_MODES {
+        TEXT classId PK
+        INTEGER sessionTypeId PK
+        INTEGER enabled
+    }
+
+    CLASSES ||--o{ STUDENTS : "contient"
+    CLASSES ||--o{ SESSIONS : "associe"
+    CLASSES ||--o{ TESTS : "organise"
+    CLASSES ||--o{ EXCUSED_ABSENCES : "référence"
+    CLASSES ||--o{ SUBGROUP_MODES : "paramètre"
+    SESSION_TYPES ||--o{ SESSIONS : "qualifie"
+    SESSION_TYPES ||--o{ TESTS : "qualifie"
+    SESSION_TYPES ||--o{ EXCUSED_ABSENCES : "qualifie"
+    SESSION_TYPES ||--o{ SUBGROUP_MODES : "paramètre"
+    STUDENTS ||--o{ SESSIONS : "assiste"
+    STUDENTS ||--o{ TEST_RESULTS : "obtient"
+    STUDENTS ||--o{ EXCUSED_ABSENCES : "justifie"
+    TESTS ||--o{ TEST_RESULTS : "produit"
